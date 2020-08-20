@@ -26,7 +26,7 @@ NPM Packages needed: Express
 
 Run server.js in terminal and head to localhost:3000 to open application.
 
-![app screen shot](https://github.com/hamery93/Fitness-Tracker/blob/master/appscreenshot.jpg)
+![app screen shot](https://github.com/hamery93/Online-Offline-Budget-Tracker/blob/master/app_screenshot.jpg)
 
    
 ## License
